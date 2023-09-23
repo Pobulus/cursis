@@ -1,4 +1,4 @@
-# Zadanie Programistyczne: Tetris
+# cursis
 Program wykorzystuje bibliotekę [ncurses](https://github.com/mirror/ncurses) (licencja MIT) na linuxie, oraz [pdcurses](https://github.com/wmcbrine/PDCurses)  (Public Domain) na windowsie. 
 
 ## Kompilowanie z cmake:
