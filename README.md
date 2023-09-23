@@ -1,2 +1,0 @@
-# cursis
-Tetris using ncurses
