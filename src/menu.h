@@ -11,6 +11,7 @@
 #include <sstream>
 #include <exception>
 
+
 /**
  * Obiekt, który wyświetla menu główne, które pozwala użytkownikowi na regulację ustawień gry, wybór wariantu gry oraz zestawu bloków.
  */
@@ -132,7 +133,7 @@ class Menu
             conptr->printCenter ( "Gamemode: UpsideDown ", line++, ( choice== 0 ) );
             break;
         case 2:
-            conptr->printCenter ( "Gamemode: Shakey ", line++, ( choice== 0 ) );
+            conptr->printCenter ( "Gamemode: Shaky ", line++, ( choice== 0 ) );
             break;
         case 3:
             conptr->printCenter ( "Gamemode: Infection ", line++, ( choice== 0 ) );
